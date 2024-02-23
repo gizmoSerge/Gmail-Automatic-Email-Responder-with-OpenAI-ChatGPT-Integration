@@ -2,7 +2,7 @@
 # Gmail Automatic Email Responder with OpenAI ChatGPT Integration
 
 ## Description
-This project integrates the latest OpenAI ChatGPT technology, currently in beta, with Gmail, enabling automated, intelligent email responses. It comprises two key components:
+This project integrates the latest OpenAI Assistant, currently in beta, with Gmail, enabling automated, intelligent email responses. It comprises two key components:
 
 1. **AI Assistant (`ai_assistant.py`)**: This script interacts with the beta version of OpenAI's new assistant to generate contextually relevant responses based on email content. It facilitates communication with OpenAI's service for advanced response generation.
 
